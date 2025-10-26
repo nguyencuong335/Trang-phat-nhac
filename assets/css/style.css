@@ -576,7 +576,7 @@ body {
 }
 
 .q-item:last-child {
-    padding-bottom: calc(var (--player-h) + var(--player-safe));
+    padding-bottom: calc(var(--player-h) + var(--player-safe));
 }
 
 .q-cover {
